@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => {
     base: process.env.FIGMA_PUBLIC_URL
     ? `${process.env.FIGMA_PUBLIC_URL}/`
     : process.env.GITHUB_PAGES === 'true'
-      ? '/jonahandrewsportfolio/'
+      ? '/greaterjonah/'
       : '/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
