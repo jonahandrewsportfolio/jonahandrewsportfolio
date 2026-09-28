@@ -1,0 +1,210 @@
+{
+  "kangaroo.jpg": {
+    "alt": "Kangaroo hopping around. 2024",
+    "location": "North Stradbroke Island, AUS",
+    "thumbCropY": 0.6,
+    "coordinates": "-27.4354006, 153.5448766",
+    "tags": [
+      "favorites",
+      "wildlife"
+    ]
+  },
+  "fuji.jpg": {
+    "alt": "Fuji from the bullet train window. 2024",
+    "location": "Mount Fuji, JPN",
+    "coordinates": "35.343425, 138.737300",
+    "tags": [
+      "landscape"
+    ]
+  },
+  "osaka-castle.jpg": {
+    "alt": "Castle on a cloudy day. 2024",
+    "location": "Osaka Castle, JPN",
+    "coordinates": "34.68736782835048, 135.52583110703517",
+    "tags": []
+  },
+  "bamboo-forest.jpg": {
+    "alt": "Sky-high shoots of bamboo. 2024",
+    "location": "Arashiyama Bamboo Forest, JPN",
+    "coordinates": "35.01671845244679, 135.67099829725865",
+    "tags": [
+      "landscape"
+    ]
+  },
+  "red-gates.jpg": {
+    "alt": "10,000 red gates. 2024",
+    "location": "Fushimi Inari Taisha, JPN",
+    "coordinates": "34.96810409110604, 135.77773540571715",
+    "tags": [
+      "favorites"
+    ]
+  },
+  "kookaburra.jpg": {
+    "alt": "Kookaburra sitting on the ground. 2024",
+    "location": "Noosa National Park, AUS",
+    "coordinates": "-26.379777855570428, 153.10360686868498",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "cathedral-cove.jpg": {
+    "alt": "A treacherous trail to take. 2024",
+    "location": "Cathedral Cove, NZ",
+    "coordinates": "-36.82875412677882, 175.79061440845638",
+    "tags": [
+      "favorites",
+      "landscape"
+    ]
+  },
+  "cueva-ventana.jpg": {
+    "alt": "Cave in the sky. 2026",
+    "location": "Cueva Ventana, PR",
+    "coordinates": "18.371440646023526, -66.69072037436918",
+    "tags": [
+      "landscape"
+    ]
+  },
+  "bumblebee.jpg": {
+    "alt": "Bee gets his honey. 2026",
+    "location": "Burnsville, NC",
+    "coordinates": "35.90944020306819, -82.29634907982764",
+    "tags": [
+      "favorites",
+      "wildlife"
+    ]
+  },
+  "blue-heron.jpg": {
+    "alt": "Great blue heron looking for food. 2025",
+    "location": "Saluda River, SC",
+    "coordinates": "34.01088854538431, -81.0782791465056",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "blue-heron-rock.jpg": {
+    "alt": "Great blue heron on a rock. 2025",
+    "location": "Saluda River, SC",
+    "thumbCropY": 0.3,
+    "coordinates": "34.010885327726356, -81.07826584056204",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "blue-heron-eating.jpg": {
+    "alt": "Great blue eating a scrumptious snack. 2025",
+    "location": "Saluda River, SC",
+    "coordinates": "34.00996944034068, -81.07756686550266",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "three-birds.jpg": {
+    "alt": "Sulphur-crested cockatoos eating supper. 2024",
+    "location": "Katoomba Station, AUS",
+    "coordinates": "-33.71199712116576, 150.3117700261041",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "noosa-stars.jpg": {
+    "alt": "A blanket and a backpack beneath the cold night sky. 2024",
+    "location": "River Entrance Beach, AUS",
+    "thumbCropY": 0.7,
+    "coordinates": "-26.381655234410385, 153.0799528705935",
+    "tags": [
+      "favorites"
+    ]
+  },
+  "junior-killdeer.jpg": {
+    "alt": "Junior killdeer near a construction site. 2018",
+    "location": "Lexington, SC",
+    "coordinates": "33.995316983791724, -81.17358469262604",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "eiffel-tower-sunset.jpg": {
+    "alt": "Eiffel Tower near sunset. 2024",
+    "location": "Paris, FRA",
+    "coordinates": "48.858305220513124, 2.293350775289807",
+    "tags": ["favorites"]
+  },
+  "iguana-pr.jpg": {
+    "alt": "Green iguana on a wall. 2026",
+    "location": "Castillo San Felipe del Morro, PR",
+    "coordinates": "18.47069871474732, -66.12355130083637",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "horse-window.jpg": {
+    "alt": "Jambo sticks his head through the car window. 2026",
+    "location": "Burnsville, NC",
+    "coordinates": "35.90834234153838, -82.29526369541455",
+    "tags": []
+  },
+  "hummingbird.jpg": {
+    "alt": "Hummingbird gets some nectar. 2026",
+    "location": "Burnsville, NC",
+    "coordinates": "35.909412192003394, -82.29461192556904",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "yellow-flower.jpg": {
+    "alt": "Pretty yellow flower in the mountains. 2026",
+    "location": "Burnsville, NC",
+    "thumbCropY": 0.2,
+    "coordinates": "35.90965830925541, -82.29574202747854",
+    "tags": []
+  },
+  "five-lined-skink.jpg": {
+    "alt": "Five-lined skink on a wooden trail. 2025",
+    "location": "Saluda River, SC",
+    "coordinates": "34.01141320233099, -81.07882513515747",
+    "tags": [
+      "wildlife"
+    ]
+  },
+  "blue-heron-open-mouth.jpg": {
+    "alt": "Great blue heron yawning. 2025",
+    "location": "Saluda River, SC",
+    "thumbCropY": 0.2,
+    "coordinates": "34.01091140157355, -81.07829331346636",
+    "tags": [
+      "favorites",
+      "wildlife"
+    ]
+  },
+  "carolina-wren.JPG": {
+    "alt": "Carolina wren chirps on a branch. 2023",
+    "location": "Columbia, SC",
+    "coordinates": "33.998345556237524, -81.02751271182963",
+    "tags": ["wildlife"]
+  },
+  "horseshoe-hawk.JPG": {
+    "alt": "Red-tailed hawk perched above the Horseshoe. 2023",
+    "location": "Columbia, SC",
+    "coordinates": "33.99796562691351, -81.028683425396",
+    "tags": ["wildlife"]
+  },
+  "stray-dog.JPG": {
+    "alt": "Stray dog in the woods. 2023",
+    "location": "Lexington, SC",
+    "coordinates": "33.99344481635099, -81.17589413297624",
+    "tags": ["wildlife"]
+  },
+  "saluda-river.JPG": {
+    "alt": "Fisherman in the Saluda River. 2025",
+    "location": "Saluda River, SC",
+    "coordinates": "34.012676252599384, -81.08093705322678",
+    "tags": ["landscape"]
+  },
+  "coin-concert.JPG": {
+    "alt": "COIN leadsinger performs for fans. 2023",
+    "location": "Columbia, SC",
+    "coordinates": "33.99717955945232, -81.02675593081905",
+    "tags": []
+  }
+
+}

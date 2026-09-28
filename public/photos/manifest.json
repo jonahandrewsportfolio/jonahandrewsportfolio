@@ -1,0 +1,351 @@
+{
+  "photos": [
+    {
+      "file": "kangaroo.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Kangaroo hopping around. 2024",
+      "location": "North Stradbroke Island, AUS",
+      "lat": -27.4354006,
+      "lng": 153.5448766,
+      "tags": [
+        "favorites",
+        "wildlife"
+      ],
+      "thumbCropY": 0.6
+    },
+    {
+      "file": "fuji.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Fuji from the bullet train window. 2024",
+      "location": "Mount Fuji, JPN",
+      "lat": 35.343425,
+      "lng": 138.7373,
+      "tags": [
+        "landscape"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "osaka-castle.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Castle on a cloudy day. 2024",
+      "location": "Osaka Castle, JPN",
+      "lat": 34.68736782835048,
+      "lng": 135.52583110703517,
+      "tags": [],
+      "thumbCropY": null
+    },
+    {
+      "file": "bamboo-forest.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Sky-high shoots of bamboo. 2024",
+      "location": "Arashiyama Bamboo Forest, JPN",
+      "lat": 35.01671845244679,
+      "lng": 135.67099829725865,
+      "tags": [
+        "landscape"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "red-gates.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "10,000 red gates. 2024",
+      "location": "Fushimi Inari Taisha, JPN",
+      "lat": 34.96810409110604,
+      "lng": 135.77773540571715,
+      "tags": [
+        "favorites"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "kookaburra.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Kookaburra sitting on the ground. 2024",
+      "location": "Noosa National Park, AUS",
+      "lat": -26.379777855570428,
+      "lng": 153.10360686868498,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "cathedral-cove.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "A treacherous trail to take. 2024",
+      "location": "Cathedral Cove, NZ",
+      "lat": -36.82875412677882,
+      "lng": 175.79061440845638,
+      "tags": [
+        "favorites",
+        "landscape"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "cueva-ventana.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Cave in the sky. 2026",
+      "location": "Cueva Ventana, PR",
+      "lat": 18.371440646023526,
+      "lng": -66.69072037436918,
+      "tags": [
+        "landscape"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "bumblebee.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Bee gets his honey. 2026",
+      "location": "Burnsville, NC",
+      "lat": 35.90944020306819,
+      "lng": -82.29634907982764,
+      "tags": [
+        "favorites",
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "blue-heron.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Great blue heron looking for food. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.01088854538431,
+      "lng": -81.0782791465056,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "blue-heron-rock.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Great blue heron on a rock. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.010885327726356,
+      "lng": -81.07826584056204,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": 0.3
+    },
+    {
+      "file": "blue-heron-eating.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Great blue eating a scrumptious snack. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.00996944034068,
+      "lng": -81.07756686550266,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "three-birds.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Sulphur-crested cockatoos eating supper. 2024",
+      "location": "Katoomba Station, AUS",
+      "lat": -33.71199712116576,
+      "lng": 150.3117700261041,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "noosa-stars.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "A blanket and a backpack beneath the cold night sky. 2024",
+      "location": "River Entrance Beach, AUS",
+      "lat": -26.381655234410385,
+      "lng": 153.0799528705935,
+      "tags": [
+        "favorites"
+      ],
+      "thumbCropY": 0.7
+    },
+    {
+      "file": "junior-killdeer.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Junior killdeer near a construction site. 2018",
+      "location": "Lexington, SC",
+      "lat": 33.995316983791724,
+      "lng": -81.17358469262604,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "eiffel-tower-sunset.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Eiffel Tower near sunset. 2024",
+      "location": "Paris, FRA",
+      "lat": 48.858305220513124,
+      "lng": 2.293350775289807,
+      "tags": [
+        "favorites"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "iguana-pr.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Green iguana on a wall. 2026",
+      "location": "Castillo San Felipe del Morro, PR",
+      "lat": 18.47069871474732,
+      "lng": -66.12355130083637,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "horse-window.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Jambo sticks his head through the car window. 2026",
+      "location": "Burnsville, NC",
+      "lat": 35.90834234153838,
+      "lng": -82.29526369541455,
+      "tags": [],
+      "thumbCropY": null
+    },
+    {
+      "file": "hummingbird.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Hummingbird gets some nectar. 2026",
+      "location": "Burnsville, NC",
+      "lat": 35.909412192003394,
+      "lng": -82.29461192556904,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "yellow-flower.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Pretty yellow flower in the mountains. 2026",
+      "location": "Burnsville, NC",
+      "lat": 35.90965830925541,
+      "lng": -82.29574202747854,
+      "tags": [],
+      "thumbCropY": 0.2
+    },
+    {
+      "file": "five-lined-skink.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Five-lined skink on a wooden trail. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.01141320233099,
+      "lng": -81.07882513515747,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "blue-heron-open-mouth.jpg",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Great blue heron yawning. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.01091140157355,
+      "lng": -81.07829331346636,
+      "tags": [
+        "favorites",
+        "wildlife"
+      ],
+      "thumbCropY": 0.2
+    },
+    {
+      "file": "carolina-wren.JPG",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Carolina wren chirps on a branch. 2023",
+      "location": "Columbia, SC",
+      "lat": 33.998345556237524,
+      "lng": -81.02751271182963,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "horseshoe-hawk.JPG",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Red-tailed hawk perched above the Horseshoe. 2023",
+      "location": "Columbia, SC",
+      "lat": 33.99796562691351,
+      "lng": -81.028683425396,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "stray-dog.JPG",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Stray dog in the woods. 2023",
+      "location": "Lexington, SC",
+      "lat": 33.99344481635099,
+      "lng": -81.17589413297624,
+      "tags": [
+        "wildlife"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "saluda-river.JPG",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "Fisherman in the Saluda River. 2025",
+      "location": "Saluda River, SC",
+      "lat": 34.012676252599384,
+      "lng": -81.08093705322678,
+      "tags": [
+        "landscape"
+      ],
+      "thumbCropY": null
+    },
+    {
+      "file": "coin-concert.JPG",
+      "thumbFile": null,
+      "largeFile": null,
+      "alt": "COIN leadsinger performs for fans. 2023",
+      "location": "Columbia, SC",
+      "lat": 33.99717955945232,
+      "lng": -81.02675593081905,
+      "tags": [],
+      "thumbCropY": null
+    }
+  ]
+}
