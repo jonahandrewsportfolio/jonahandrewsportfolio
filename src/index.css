@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600&display=swap');
+@import 'leaflet/dist/leaflet.css';
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Instrument Serif', serif;
+  --font-sans: 'Outfit', sans-serif;
+  --color-background: #0c0c0c;
+  --color-foreground: #f0ede8;
+  --color-muted: #888880;
+  --color-accent: #c9a96e;
+  --color-accent-dim: rgba(201, 169, 110, 0.15);
+  --color-border: rgba(240, 237, 232, 0.1);
+  --color-card: #161614;
+}
+
+* {
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #0c0c0c;
+  color: #f0ede8;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+@keyframes slideshow-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes slideshow-fade-out {
+  from { opacity: 1; }
+  to   { opacity: 0; }
+}
+
+.slide-enter {
+  animation: slideshow-fade-in 1.5s ease forwards;
+}
+
+.slide-exit {
+  animation: slideshow-fade-out 1.5s ease forwards;
+}
+
+@keyframes page-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.page-enter {
+  animation: page-in 0.45s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
